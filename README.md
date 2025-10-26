@@ -88,12 +88,17 @@ Use the following credentials to log in:
 
 ### Login Screen
 
-[Image of Login Screen]
+<img width="940" height="595" alt="image" src="https://github.com/user-attachments/assets/c803e00b-5ae0-4dc6-b287-0dd3c1adbfb1" />
+
 
 ### Active Session Dashboard
 
+<img width="1920" height="1102" alt="home_ss" src="https://github.com/user-attachments/assets/463650cf-bcf9-4c71-9ee2-ced1b9326029" />
+
+
 ### Video Demo
 
-*(Embed your video demonstration here)*
+https://github.com/user-attachments/assets/46187281-1b13-44e2-86b4-cc6a7f9b42ba
+
 
 ---
