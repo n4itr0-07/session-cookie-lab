@@ -9,6 +9,7 @@ A simple, interactive Flask application designed to demonstrate the fundamental 
 The primary goal of the **Session & Cookie Lab** is to provide a clear, visual understanding of how web applications track user state (i.e., remember who you are) in a stateless protocol like HTTP.
 
 It allows developers and students to:
+
 * Observe the **session token** being issued and stored in the browser.
 * See the corresponding **session data** stored on the server.
 * Simulate **session reuse** by manually transferring the cookie token.
@@ -77,28 +78,23 @@ The application will now be running on your local machine at:
 
 Use the following credentials to log in:
 
-  * **Username:** `putin`
-  * **Password:** `infected`
+* **Username:** `putin`
+* **Password:** `infected`
 
------
+---
 
 ## 📸 Demo and Screenshots
-
-*(You will add your screen recordings and images here.)*
 
 ### Login Screen
 
 <img width="940" height="595" alt="image" src="https://github.com/user-attachments/assets/c803e00b-5ae0-4dc6-b287-0dd3c1adbfb1" />
 
-
 ### Active Session Dashboard
 
 <img width="1920" height="1102" alt="home_ss" src="https://github.com/user-attachments/assets/463650cf-bcf9-4c71-9ee2-ced1b9326029" />
 
-
 ### Video Demo
 
-https://github.com/user-attachments/assets/46187281-1b13-44e2-86b4-cc6a7f9b42ba
-
+<https://github.com/user-attachments/assets/46187281-1b13-44e2-86b4-cc6a7f9b42ba>
 
 ---
